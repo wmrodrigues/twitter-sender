@@ -12,4 +12,5 @@ This project in an extension from [congress-mailer](https://github.com/wmrodrigu
 The second motivation was to learn how to use go modules, it's a great standard and it works super nice.
 
 If you have any questions, you can talk to me at washington.moises@gmail.com
+
 Tks!
