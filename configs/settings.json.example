@@ -1,0 +1,14 @@
+{
+  "twitter": {
+    "baseUrl": "https://api.twitter.com/",
+    "key": "mySuperKey",
+    "secret": "mySuperSecret",
+    "accessToken": "someAwkwardStrangeLongTextToken",
+    "accessSecret": "someAwkwardStrangeLongTextSecret"
+  },
+  "message": {
+    "maleMnemonic": "",
+    "femaleMnemonic": "",
+    "qty": 20
+  }
+}
