@@ -3,7 +3,8 @@
     "baseUrl": "https://api.twitter.com/",
     "key": "mySuperKey",
     "secret": "mySuperSecret",
-    "token": "someAwkwardStrangeLongTextToken"
+    "accessToken": "someAwkwardStrangeLongTextToken",
+    "accessSecret": "someAwkwardStrangeLongTextSecret"
   },
   "message": {
     "maleMnemonic": "",

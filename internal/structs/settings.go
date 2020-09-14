@@ -2,10 +2,11 @@ package structs
 
 type Settings struct {
 	Twitter struct {
-		BaseUrl string `json:"baseUrl"`
-		Key     string `json:"key"`
-		Secret  string `json:"secret"`
-		Token   string `json:"token"`
+		BaseUrl      string `json:"baseUrl"`
+		Key          string `json:"key"`
+		Secret       string `json:"secret"`
+		AccessToken  string `json:"accessToken"`
+		AccessSecret string `json:"accessSecret"`
 	} `json:"twitter"`
 	Message struct {
 		MaleMnemonic   string `json:"maleMnemonic"`
