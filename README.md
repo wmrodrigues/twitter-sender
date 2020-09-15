@@ -14,3 +14,5 @@ The second motivation was to learn how to use go modules, it's a great standard 
 If you have any questions, you can talk to me at washington.moises@gmail.com
 
 Tks!
+
+Built with <span style="color:transparent; text-shadow: 0 0 0 yellow;">♥</span> by Wash
