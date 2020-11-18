@@ -20,4 +20,4 @@ settings.json
 message.template
 file.csv
 
-sender
+./sender
